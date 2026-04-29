@@ -13,7 +13,7 @@ I am an MBA Candidate specializing in Management Science with a proven backgroun
 ### 📊 Technical & Product Toolkit
 * **Languages & Analytics:** SQL, Python, R, Tableau, Power BI, Predictive analytics.
 * **Architecture & Tools:** Rest API, Azure, Docker, GenAI/LLM, Jira.
-* **Methodologies:** Product management, GTM, Agile, CI/CD, A/B testing[.
+* **Methodologies:** Product management, GTM, Agile, CI/CD, A/B testing.
 
 ### 🎨 Beyond the Desk
 When I'm not building products, I am a professional Indian classical dancer, a board game fan, and a doodling enthusiast.
